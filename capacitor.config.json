@@ -1,0 +1,7 @@
+{
+  "appId": "com.trackpro.worker",
+  "appName": "TrackPro Worker",
+  "webDir": "public",
+  "server": { "androidScheme": "https" },
+  "android": { "allowMixedContent": false }
+}
